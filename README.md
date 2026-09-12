@@ -1,4 +1,4 @@
-# LibreTV
+# LibreTVdddd
 
 LibreTV Next.js 迁移版：免费在线视频聚合搜索与观看平台。基于 Next.js 15（App Router）+ TypeScript + Tailwind CSS，播放内核为 ArtPlayer + hls.js，支持亮暗双主题。
 
